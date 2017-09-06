@@ -2,4 +2,4 @@
 
 2  config nginx vhost
 
-3  localhost/web/login 
+3  open browser     localhost/web/login 
